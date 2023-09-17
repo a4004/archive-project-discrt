@@ -1,9 +1,11 @@
+#### 📦 This repository is part of my archive of old projects I have worked on and happened to back up prior to 2022. These projects are messy, are of low quality and do not reflect my current programming ability or professionalism. 📦
+
 DiscordRT - Remote Administration Tool
 
 ##### Discord Remote Administration Tool / Bot. Allows you to remotely control Windows PC shell and basic functions via Discord. 
 
 
-![LOGO](https://raw.githubusercontent.com/mrvodka007/discrt/master/Bot_Resources_Web/DISCRT_BANNER.png "DiscordRT Banner")
+![LOGO](./Bot_Resources_Web/DISCRT_BANNER.png "DiscordRT Banner")
 
 
 ### DiscRT is an open source remote administration tool for Discord Bot Servers, it allows remote control over a PC through the Discord interface powered by Discord.NET Framework.
@@ -26,7 +28,7 @@ DiscordRT - Remote Administration Tool
 
 ### You have successfully installed DiscRT on your server. Happy Admin-ing? - _Oh and happy Discord Hack Week!_
 
-![Discord Hack Week](https://raw.githubusercontent.com/mrvodka007/discrt/master/Bot_Resources_Web/hack_badge_black.png "Discord")
+![Discord Hack Week](./Bot_Resources_Web/hack_badge_black.png "Discord")
 
 # Commands
 | Command       | Function      | Need Auth? |
